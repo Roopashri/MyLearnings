@@ -1,12 +1,16 @@
 .main{
-	background-color:#F2E6E4
+	background-color:#F2E6E4;
+	color:black;
 }
 .subscribe-button{
+	background-color:#B54C65;
+	color:#6A8A6A;
 	
 }
 .subscribe-button:hover{
-	
+	background-color:#B54C65;
 }
 .suscribe-button:active{
+	background-color:#FAFCFA;
 	
 }
