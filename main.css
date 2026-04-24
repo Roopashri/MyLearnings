@@ -7,6 +7,9 @@
 	color:black;
 	height:36px;
 	width:108px;
+	border:none;
+	border-radius:2px;
+	cursor:pointer;
 	
 }
 ..subscribe-button:hover{
@@ -17,4 +20,8 @@
 	background-color:#FAFCFA;
 	color:black;
 	
+}
+.join-button{
+	border-style:solid;
+	border-color:#F22424;
 }
