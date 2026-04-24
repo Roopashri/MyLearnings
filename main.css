@@ -4,15 +4,17 @@
 }
 .subscribe-button{
 	background-color:#B54C65;
-	color:#6A8A6A;
+	color:black;
 	height:36px;
 	width:108px;
 	
 }
 ..subscribe-button:hover{
 	background-color:#F5DAE6;
+	color:black;
 }
 .suscribe-button:active{
 	background-color:#FAFCFA;
+	color:black;
 	
 }
