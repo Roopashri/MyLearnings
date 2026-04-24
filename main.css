@@ -5,6 +5,8 @@
 .subscribe-button{
 	background-color:#B54C65;
 	color:#6A8A6A;
+	height:36px;
+	width:108px;
 	
 }
 ..subscribe-button:hover{
